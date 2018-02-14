@@ -1,0 +1,22 @@
+{
+    "RedditInfo":
+    {
+        "client_id" : "",
+        "client_secret" : "",
+        "username" : "",
+        "password" : "",
+        "user_agent" : "",
+        "TargetSubreddit" : ""
+    },
+    "Delimiter" : "",
+    "BatchSize" : ,
+    "TimeToRefresh": ,
+    "TotalSavedPairs": ,
+    "EmailInfo":{
+        "Sender":{
+            "Email":"",
+            "Password":""
+                  },
+        "ReceivingEmail":""
+    }
+}
